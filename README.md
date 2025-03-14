@@ -17,6 +17,7 @@ It utilizes a trained ML model to provide accurate predictions, making it useful
 
 ## 📂 Project Structure
 
+```
 HousePrice_Prediction-WebApp
 │── model
 │   ├── banglore_home_prices_final.ipynb    # Jupyter notebook for model training
@@ -39,6 +40,7 @@ HousePrice_Prediction-WebApp
 │   ├── app.js          # JavaScript file to handle frontend interactions
 │   ├── image.png       # Web UI-related images
 │
+```
 
 ## 🎯 How It Works
 
