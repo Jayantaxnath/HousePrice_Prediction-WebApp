@@ -23,12 +23,13 @@ BHP_ML_PROJECT
 │   ├── banglore_home_prices_final.ipynb    # Jupyter notebook for model training
 │   ├── banglore_home_prices_model.pickle   # Trained ML model
 │   ├── bengaluru_house_prices.csv          # Dataset used for training
-│   ├── columns.json                        # Stores column names for model inference
+│   ├── columns.json                        # Stores column names like bhk, bath, area, locations.
 │
 │── server
 │   ├── __pycache__/                         # Cached Python files
 │   ├── model_data/
 │   │   ├── banglore_home_prices_model.pickle   # Model used in deployment
+|   |   ├── columns.json                        # Stores column names for model inference
 │   ├── requirements.txt                       # Dependencies and required packages
 │   ├── server.py                               # Main Flask API to handle requests
 │   ├── util.py                                 # Utility functions for processing requests
