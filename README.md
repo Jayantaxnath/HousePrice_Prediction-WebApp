@@ -18,7 +18,7 @@ It utilizes a trained ML model to provide accurate predictions, making it useful
 ## 📂 Project Structure
 
 ```
-BHP_ML_PROJECT
+[HousePrice_Prediction-WebApp](https://github.com/Jayantaxnath/HousePrice_Prediction-WebApp/tree/main)
 │── model
 │   ├── banglore_home_prices_final.ipynb    # Jupyter notebook for model training
 │   ├── banglore_home_prices_model.pickle   # Trained ML model
