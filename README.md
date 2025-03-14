@@ -83,8 +83,7 @@ BHP_ML_PROJECT
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo-name.git
-cd BHP_ML_PROJECT
+git clone https://github.com/repo-name.git
 ```
 
 #### 2. Create a Virtual Environment (Recommended)
