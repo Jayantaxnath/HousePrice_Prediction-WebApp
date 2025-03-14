@@ -1,6 +1,3 @@
-# HousePricie_Prediction-WebApp
-HousePrice_Prediction-WebApp is a Flask-based ML application that estimates house prices using factors like location, size, and bedrooms.
-
 # 🏡 House Price Prediction Web App
 
 ![Web UI](https://github.com/user-attachments/assets/2017aa52-96ff-4d38-b4d2-21c7bb91e4d6)
