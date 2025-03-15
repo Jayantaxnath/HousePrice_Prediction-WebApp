@@ -1,7 +1,6 @@
 # 🏡 House Price Prediction Web App
 
-![Web UI](https://github.com/user-attachments/assets/2017aa52-96ff-4d38-b4d2-21c7bb91e4d6)
-
+![Screenshot 2025-03-15 132758](https://github.com/user-attachments/assets/c3e4f07d-68a2-41b8-a0bc-6da97e391f98)
 
 ## 📌 About the Project
 
